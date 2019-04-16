@@ -1,0 +1,10 @@
+package com.formacion;
+
+import java.util.Locale;
+
+public interface Traductor {
+
+	static Locale obtenLocaleEntorno() {
+		return Locale.getDefault();
+	}
+}

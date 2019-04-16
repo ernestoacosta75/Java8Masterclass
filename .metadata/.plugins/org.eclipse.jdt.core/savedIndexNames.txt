@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\udemy\jee8\.metadata\.plugins\org.eclipse.jdt.core
+3255004954.index
+50808690.index

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+			<item value="C:\udemy\jee8\2_02_lambda_expressions"/>
+			<item value="C:\udemy\jee8\1_02_default_methods"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\udemy\3-01-jdk-functional-interfaces-solucion.zip"/>
+			<item value="C:\udemy\3-01-jdk-functional-interfaces.zip"/>
+			<item value="C:\udemy\2-02-lambda-expressions.zip"/>
+		</list>
+	</section>
+</section>
